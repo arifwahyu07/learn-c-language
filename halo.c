@@ -5,5 +5,7 @@
 int
 main(void)
 { /* Badan Program */
-printf("Hello World!\n ");
+printf("Halo Dunia!\n ");
+printf("Halo Dunia!\n ");
+printf("Halo Dunia!\n ");
 }
